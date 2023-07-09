@@ -486,7 +486,7 @@ map.on('load', () => {
         <div>\
         <span${
             feature.properties.disaster1 ? '' : ' style="color:#ccc;"'
-        }">洪水</span>\
+        }>洪水</span>\
         <span${
             feature.properties.disaster2 ? '' : ' style="color:#ccc;"'
         }> 崖崩れ/土石流/地滑り</span>\
